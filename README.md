@@ -11,6 +11,9 @@
     * Nuget
     * dotnet cli
     * MSBuild
+  * 测试
+    * BDD: Specflow / Xunit.Gherkin.Quick
+    * TDD: xUnit
   * 安全
     * Identity Server
 * Java
@@ -19,10 +22,14 @@
   * 构建与包管理
     * Maven
     * Gradle
+  * 测试
+    * BDD: Cucumber
   * 安全
 * Python
   * 框架
     * Flask
+  * 测试
+    * BDD: Behave  
 * Node
   * 框架
     * Midway ( Egg.js )
@@ -33,6 +40,23 @@
     * Angular
     * Next.js (React)
     * Nuxt.js (Vue)
+  * 测试
+    * TDD: Jest
   * 安全
     * 跨域访问
 * 容器化
+  * Docker
+* Message Queue
+  * RabbitMQ
+* 数据库
+  * Redis
+  * PostgreSQL
+  * MySQL
+  * SQL Server
+* 工程化
+  * Webpack
+  * 持续集成
+    * Jenkins
+    * Github Actions
+* 最佳实践
+  * [Python](pythonguidecn.readthedocs.io/zh/latest/index.html)
