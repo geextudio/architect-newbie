@@ -44,10 +44,15 @@
     * TDD: Jest
   * 安全
     * 跨域访问
-* 容器化
-  * Docker
+* DevOps
+  * Web Server
+    * Nginx ( +OpenResty )
+    * IIS
+    * [Gunicorn](https://gunicorn.org)
+  * 容器化
+    * Docker
 * Message Queue
-  * RabbitMQ
+  * RabbitMQ  
 * 数据库
   * Redis
   * PostgreSQL
