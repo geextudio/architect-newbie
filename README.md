@@ -65,3 +65,4 @@
     * Github Actions
 * 最佳实践
   * [Python](pythonguidecn.readthedocs.io/zh/latest/index.html)
+  * [Node.js](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.chinese.md)
