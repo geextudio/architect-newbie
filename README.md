@@ -27,7 +27,7 @@
   * 安全
 * Python
   * 框架
-    * Flask
+    * Django
   * 测试
     * BDD: Behave  
 * Node
