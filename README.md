@@ -6,7 +6,8 @@
 
 * .NET
   * 框架
-    * ABP
+    * **ABP**
+    * MASA Stack
   * 构建与包管理
     * Nuget
     * dotnet cli
@@ -18,7 +19,7 @@
     * Identity Server
 * Java
   * 框架
-    * Spring Boot
+    * **Spring Boot**
   * 构建与包管理
     * Maven
     * Gradle
@@ -27,40 +28,51 @@
   * 安全
 * Python
   * 框架
-    * Django
+    * **Django**
   * 测试
     * BDD: Behave  
 * Node
   * 框架
-    * Midway ( Egg.js )
-    * Nest.js ( Express.js )
+    * Midway
+    * Nest.js
+    * Express.js
     * Nx (全栈)
+* 跨端应用
+  * 框架 
+    * **MAUI**
+    * Flutter
+    * React Native 
 * 前端
   * 框架
-    * Angular
-    * Next.js (React)
-    * Nuxt.js (Vue)
+    * React 
+      * Next.js
+      * Gatsby
+    * Vue
+      * **Nuxt.js**
+      * Quasar
+      * Vben
   * 测试
     * TDD: Jest
   * 安全
     * 跨域访问
 * DevOps
   * Web Server
-    * Nginx ( +OpenResty )
+    * **Nginx** ( +OpenResty )
     * IIS
     * [Gunicorn](https://gunicorn.org)
   * 容器化
-    * Docker
+    * **Docker**
 * Message Queue
   * RabbitMQ  
 * 数据库
   * Redis
-  * PostgreSQL
+  * **PostgreSQL**
   * MySQL
   * SQL Server
 * 工程化
-  * Webpack
+  * **Vite**
   * 持续集成
+    * **AzureDevops**
     * Jenkins
     * Github Actions
 * 最佳实践
